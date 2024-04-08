@@ -1,0 +1,74 @@
+
+   
+
+
+.post-header{
+   
+    background-color: #f0f0f0;
+   
+} 
+.fa-ellipsis-v{
+    float: right;
+    font-size: 20px;
+}
+.iconoHTML5{
+    padding-right: 5%;
+    margin: 0%;
+    display: inline-block;
+   width: 0%;
+    padding: 0%;
+   
+}
+.fa-html5{
+    font-size: 50px;  
+}
+
+.encabezados{
+   padding-left: 10px;
+  
+   display: inline-block;
+   font-size: 10px;
+   margin: 5;
+   padding: 2%;
+}
+.encabezados h1, .encabezados h2{
+   
+    margin-bottom: 5px;
+}
+.post-header i {
+    font-size: 30px;
+    margin: 5%;
+    padding-right: 20;
+}
+.post-img img {
+    width: 100%;
+    height: 100%;
+}
+.post-body p{
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+.post-body p .bold-text {
+    font-weight: bold;
+}
+.highlighted {
+    font-weight: bold;
+}
+
+.post-body{
+    padding: 20px;
+}
+.post-icons{
+    margin-bottom: 30px;   
+}
+.post-icons i{
+    font-size: 20px;
+}
+.fa-bookmark { 
+float: right;
+}
+
+
+
+
+
