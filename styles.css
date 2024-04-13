@@ -1,3 +1,8 @@
+.post {
+    width: 33.33%; /* Un tercio del ancho de la pantalla */
+    margin: 0 auto; /* Para centrar horizontalmente */
+}
+
 .post-header {
     background-color: #f0f0f0;
 }
